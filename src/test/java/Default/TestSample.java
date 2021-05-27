@@ -12,6 +12,7 @@ public class TestSample {
 		
 		System.out.println(d.get(0));
 		System.out.println(d.get(2));
+		System.out.println("hi changes made in first");
 		
 	}
 }
