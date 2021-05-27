@@ -13,6 +13,9 @@ public class TestSample {
 		System.out.println(d.get(0));
 		System.out.println(d.get(2));
 		System.out.println("hi changes made in first");
+		System.out.println("hi this is the change made by first");
+		System.out.println("hi this is the change made by first not by master");
+
 		
 	}
 }
