@@ -44,6 +44,6 @@ public class TestSample {
 		System.out.println("hi changes made master");
 		System.out.println("hi this is the change master");
 
-		
+		System.out.println("hi changes made master");
 	}
 }
